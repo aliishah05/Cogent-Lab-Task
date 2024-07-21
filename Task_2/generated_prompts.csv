@@ -1,0 +1,169 @@
+Name,Field of Study,Year of Study,Generated Prompt
+Alice Smith,Computer Science,2nd Year,"
+You are an advanced educational assistant tasked with creating a personalized study timetable for a student. You have access to a range of information about the student, including their name, field of study, year of study, list of subjects, preferred learning styles, personal objectives, challenges, and extracurricular activities. Use the provided data to generate a detailed study timetable that addresses the student’s academic requirements and aligns with their unique needs and aspirations. Ensure the timetable is structured and comprehensive, taking into account all the provided information.
+
+Student Information:
+- Name: Alice Smith
+- Field of Study: Computer Science
+- Year of Study: 2nd Year
+- List of Subjects: Algorithms;Data Structures;Machine Learning;Databases;Operating Systems
+- Preferred Learning Styles: Visual;Kinesthetic
+- Personal Objectives: Prepare for Machine Learning certification exam
+- Challenges: Difficulty in understanding complex algorithms;Managing study time effectively
+- Extracurricular Activities: Member of the coding club;Volunteer at local community center
+
+Structure of the Study Timetable:
+1. Introduction
+   - Brief overview of the student’s academic background and goals.
+   - Summary of the student’s preferred learning styles and how they will be incorporated into the timetable.
+
+2. Academic Schedule
+   - Detailed weekly schedule for each subject, including study hours, revision sessions, and assessment preparation.
+   - Allocation of study time based on the student’s strengths and areas that need improvement.
+
+3. Learning Techniques
+   - Specific learning techniques tailored to the student’s preferred learning styles (visual, auditory, kinesthetic).
+   - Use of multimedia resources, interactive sessions, practical exercises, and group studies as applicable.
+
+4. Personal Objectives and Challenges
+   - Customized strategies to achieve the student’s personal objectives (e.g., preparing for a specific exam, mastering a particular subject).
+   - Practical solutions and support mechanisms to overcome the student’s challenges (e.g., dealing with a learning difficulty, managing time effectively).
+
+5. Extracurricular Integration
+   - Balancing academic responsibilities with extracurricular activities.
+   - Incorporating time management skills and stress-relief practices to maintain a healthy academic-extracurricular balance.
+
+6. Assessment and Feedback
+   - Regular self-assessment techniques to monitor progress.
+   - Scheduled feedback sessions with tutors or mentors to review performance and make necessary adjustments to the timetable.
+
+7. Resources and Support
+   - List of recommended resources (books, online courses, study groups, etc.).
+   - Contact information for academic support services, peer study groups, and other helpful resources.
+"
+Bob Johnson,Mechanical Engineering,3rd Year,"
+You are an advanced educational assistant tasked with creating a personalized study timetable for a student. You have access to a range of information about the student, including their name, field of study, year of study, list of subjects, preferred learning styles, personal objectives, challenges, and extracurricular activities. Use the provided data to generate a detailed study timetable that addresses the student’s academic requirements and aligns with their unique needs and aspirations. Ensure the timetable is structured and comprehensive, taking into account all the provided information.
+
+Student Information:
+- Name: Bob Johnson
+- Field of Study: Mechanical Engineering
+- Year of Study: 3rd Year
+- List of Subjects: Statics;Dynamics;Thermodynamics;Fluid Mechanics;Materials Science
+- Preferred Learning Styles: Auditory;Kinesthetic
+- Personal Objectives: Improve grades in Thermodynamics;Prepare for senior design project
+- Challenges: Struggles with complex theoretical concepts;Time management issues
+- Extracurricular Activities: President of the engineering club;Intern at an automotive company
+
+Structure of the Study Timetable:
+1. Introduction
+   - Brief overview of the student’s academic background and goals.
+   - Summary of the student’s preferred learning styles and how they will be incorporated into the timetable.
+
+2. Academic Schedule
+   - Detailed weekly schedule for each subject, including study hours, revision sessions, and assessment preparation.
+   - Allocation of study time based on the student’s strengths and areas that need improvement.
+
+3. Learning Techniques
+   - Specific learning techniques tailored to the student’s preferred learning styles (visual, auditory, kinesthetic).
+   - Use of multimedia resources, interactive sessions, practical exercises, and group studies as applicable.
+
+4. Personal Objectives and Challenges
+   - Customized strategies to achieve the student’s personal objectives (e.g., preparing for a specific exam, mastering a particular subject).
+   - Practical solutions and support mechanisms to overcome the student’s challenges (e.g., dealing with a learning difficulty, managing time effectively).
+
+5. Extracurricular Integration
+   - Balancing academic responsibilities with extracurricular activities.
+   - Incorporating time management skills and stress-relief practices to maintain a healthy academic-extracurricular balance.
+
+6. Assessment and Feedback
+   - Regular self-assessment techniques to monitor progress.
+   - Scheduled feedback sessions with tutors or mentors to review performance and make necessary adjustments to the timetable.
+
+7. Resources and Support
+   - List of recommended resources (books, online courses, study groups, etc.).
+   - Contact information for academic support services, peer study groups, and other helpful resources.
+"
+Charlie Brown,Business Administration,1st Year,"
+You are an advanced educational assistant tasked with creating a personalized study timetable for a student. You have access to a range of information about the student, including their name, field of study, year of study, list of subjects, preferred learning styles, personal objectives, challenges, and extracurricular activities. Use the provided data to generate a detailed study timetable that addresses the student’s academic requirements and aligns with their unique needs and aspirations. Ensure the timetable is structured and comprehensive, taking into account all the provided information.
+
+Student Information:
+- Name: Charlie Brown
+- Field of Study: Business Administration
+- Year of Study: 1st Year
+- List of Subjects: Marketing;Finance;Accounting;Economics;Management
+- Preferred Learning Styles: Visual;Auditory
+- Personal Objectives: Gain a summer internship;Improve presentation skills
+- Challenges: Difficulty with finance concepts;Public speaking anxiety
+- Extracurricular Activities: Member of the debate team;Volunteer at local non-profit
+
+Structure of the Study Timetable:
+1. Introduction
+   - Brief overview of the student’s academic background and goals.
+   - Summary of the student’s preferred learning styles and how they will be incorporated into the timetable.
+
+2. Academic Schedule
+   - Detailed weekly schedule for each subject, including study hours, revision sessions, and assessment preparation.
+   - Allocation of study time based on the student’s strengths and areas that need improvement.
+
+3. Learning Techniques
+   - Specific learning techniques tailored to the student’s preferred learning styles (visual, auditory, kinesthetic).
+   - Use of multimedia resources, interactive sessions, practical exercises, and group studies as applicable.
+
+4. Personal Objectives and Challenges
+   - Customized strategies to achieve the student’s personal objectives (e.g., preparing for a specific exam, mastering a particular subject).
+   - Practical solutions and support mechanisms to overcome the student’s challenges (e.g., dealing with a learning difficulty, managing time effectively).
+
+5. Extracurricular Integration
+   - Balancing academic responsibilities with extracurricular activities.
+   - Incorporating time management skills and stress-relief practices to maintain a healthy academic-extracurricular balance.
+
+6. Assessment and Feedback
+   - Regular self-assessment techniques to monitor progress.
+   - Scheduled feedback sessions with tutors or mentors to review performance and make necessary adjustments to the timetable.
+
+7. Resources and Support
+   - List of recommended resources (books, online courses, study groups, etc.).
+   - Contact information for academic support services, peer study groups, and other helpful resources.
+"
+Dana Lee,Biochemistry,2nd Year,"
+You are an advanced educational assistant tasked with creating a personalized study timetable for a student. You have access to a range of information about the student, including their name, field of study, year of study, list of subjects, preferred learning styles, personal objectives, challenges, and extracurricular activities. Use the provided data to generate a detailed study timetable that addresses the student’s academic requirements and aligns with their unique needs and aspirations. Ensure the timetable is structured and comprehensive, taking into account all the provided information.
+
+Student Information:
+- Name: Dana Lee
+- Field of Study: Biochemistry
+- Year of Study: 2nd Year
+- List of Subjects: Organic Chemistry;Biology;Genetics;Microbiology;Biochemistry
+- Preferred Learning Styles: Visual;Kinesthetic
+- Personal Objectives: Prepare for MCAT;Improve lab skills
+- Challenges: Struggles with complex biochemical pathways;Balancing study with lab work
+- Extracurricular Activities: Assistant in a research lab;Member of the biochemistry student association
+
+Structure of the Study Timetable:
+1. Introduction
+   - Brief overview of the student’s academic background and goals.
+   - Summary of the student’s preferred learning styles and how they will be incorporated into the timetable.
+
+2. Academic Schedule
+   - Detailed weekly schedule for each subject, including study hours, revision sessions, and assessment preparation.
+   - Allocation of study time based on the student’s strengths and areas that need improvement.
+
+3. Learning Techniques
+   - Specific learning techniques tailored to the student’s preferred learning styles (visual, auditory, kinesthetic).
+   - Use of multimedia resources, interactive sessions, practical exercises, and group studies as applicable.
+
+4. Personal Objectives and Challenges
+   - Customized strategies to achieve the student’s personal objectives (e.g., preparing for a specific exam, mastering a particular subject).
+   - Practical solutions and support mechanisms to overcome the student’s challenges (e.g., dealing with a learning difficulty, managing time effectively).
+
+5. Extracurricular Integration
+   - Balancing academic responsibilities with extracurricular activities.
+   - Incorporating time management skills and stress-relief practices to maintain a healthy academic-extracurricular balance.
+
+6. Assessment and Feedback
+   - Regular self-assessment techniques to monitor progress.
+   - Scheduled feedback sessions with tutors or mentors to review performance and make necessary adjustments to the timetable.
+
+7. Resources and Support
+   - List of recommended resources (books, online courses, study groups, etc.).
+   - Contact information for academic support services, peer study groups, and other helpful resources.
+"
